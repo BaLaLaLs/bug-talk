@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.balalals.bugtalk.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.balalals.bugtalk.MyBundle
 
 class MyApplicationService {
 
